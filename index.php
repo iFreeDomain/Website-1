@@ -9,16 +9,16 @@ session_start();
     <!-- Metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Box offers high-performance unlimited hosting solutions for anyone! They are easy to set up and support is there to help you at every step of the way!">
+    <meta name="description" content="FallenNodes offers high-performance unlimited hosting solutions for anyone! They are easy to set up and support is there to help you at every step of the way!">
     <meta name="author" content="techtoolbox">
-    <meta name="keywords" content="VPS,hosting,startup,box,boxvps,servers,host">
+    <meta name="keywords" content="VPS,hosting,startup,fallennodes,free vps,servers,host">
     <meta name="theme-color" content="#6c4cff"/>
 
     <!-- Favicon -->
     <link rel="icon" href="/graphics/favicon.ico">
 
     <!-- Title -->
-    <title>Simply better hosting > Box VPS</title>
+    <title>Simply better hosting > Free VPS</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
