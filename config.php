@@ -6,14 +6,14 @@
 
     server with default setting (user 'root' with no password) */
 
-    define('DB_SERVER', 'localhost');
+    define('DB_SERVER', 'sql6.freesqldatabase.com');
 
-    define('DB_USERNAME', 'root');
+    define('DB_USERNAME', 'sql6491278');
 
-    define('DB_PASSWORD', '');
+    define('DB_PASSWORD', '6IebBW9dyx');
     //define('DB_PASSWORD', '&W5gj7SgT8{Fr5/[');
 
-    define('DB_NAME', 'accounts');
+    define('DB_NAME', 'sql6491278');
 
 
 
